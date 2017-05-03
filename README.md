@@ -4,6 +4,8 @@ Uses Tensorflow in Python2.7 with OpenCV 2.4
 
 
 Trained deep learning model from scratch and achieved a loss of 0.3355 in the Kaggle challenge. Output prediction can be found under results/
+
+Please read final report for more details
 * To train the smaller network model:
 ```
 $python train_small_network.py [directory of training images]
